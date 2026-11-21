@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Tao Lin Deployment Page</title>
+    </head>
+
+    <body>
+        <h1>Render Static Site</h1>
+            <ul>
+                <li><strong>Name: </strong>Tao Lin</li>
+                <li><strong>GitHub Location: </strong><a href="https://github.com/Goldeye007/tlin2024TERP">https://github.com/Goldeye007/tlin2024TERP</a></li>
+                <li><strong>Render Location: </strong><a></a></li>
+                <li><strong>Clearing Database Movies: </strong><a></a></li>
+                <li><strong>Inserting Movies: </strong><a></a></li>
+                <li><strong>List Movies: </strong><a></a></li>
+            </ul>
+            
+    </body>
+</html>
