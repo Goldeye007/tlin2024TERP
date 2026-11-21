@@ -9,10 +9,10 @@
             <ul>
                 <li><strong>Name: </strong>Tao Lin</li>
                 <li><strong>GitHub Location: </strong><a href="https://github.com/Goldeye007/tlin2024TERP">https://github.com/Goldeye007/tlin2024TERP</a></li>
-                <li><strong>Render Location: </strong><a></a></li>
-                <li><strong>Clearing Database Movies: </strong><a></a></li>
-                <li><strong>Inserting Movies: </strong><a></a></li>
-                <li><strong>List Movies: </strong><a></a></li>
+                <li><strong>Render Location: </strong><a href="https://tlin2024terp.onrender.com/">https://tlin2024terp.onrender.com/</a></li>
+                <li><strong>Clearing Database Movies: </strong><a href="https://tlin2024terp.onrender.com/clearCollection"></a>https://tlin2024terp.onrender.com/clearCollection</li>
+                <li><strong>Inserting Movies: </strong><a href="https://tlin2024terp.onrender.com/insertMovies"></a>https://tlin2024terp.onrender.com/insertMovies</li>
+                <li><strong>List Movies: </strong><a href="https://tlin2024terp.onrender.com/listMovies"></a>https://tlin2024terp.onrender.com/listMovies</li>
             </ul>
             
     </body>
